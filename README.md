@@ -2,4 +2,4 @@
 
 Hello Guys I am Vampire
 <br>
-Authot : Vampire
+Author : Vampire D
